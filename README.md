@@ -6,9 +6,9 @@ Try the calculator here: https://a10-s138-internal.teainside.org/teac.php
 
 **Note: The calculator accepts math expression in LaTex format.**
 
-I open the API for public here https://api.teainside.org/teacalc2.php?key=$key&expr=$expr
+I open the API for public here `https://api.teainside.org/teacalc2.php?key=$key&expr=$expr`
 
-It doesn't need documentation to be used. You can just replace the $key with API key and $expr with URL encoded math expression written in LaTex.
+It doesn't really need documentation to be used. You can just replace the `$key` with API key and `$expr` with URL encoded math expression written in LaTex.
 
 Public API Key: `8e7eaa2822cf3bf77a03d63d2fbdeb36df0a409f`
 
